@@ -42,15 +42,19 @@ resources based on examination results.
 
 # Screenshots
 
-login to the tool 
+__login to the tool__
+
 ![login](https://github.com/karimaldaly/graduation-project/assets/81292819/e310e508-a50a-4cdf-a5ef-3806b50dbeed)
 
-show the dashboard
+__show the dashboard__
+
 ![dashboard](https://github.com/karimaldaly/graduation-project/assets/81292819/d0b4ad1a-3772-4c27-84d7-2e0e91983c91)
 
-create professional report
+__create professional report__
+
 ![reporting](https://github.com/karimaldaly/graduation-project/assets/81292819/94e41e3e-6599-4e47-8a87-f09a3efe41f8)
 
-detection and chatbot result
+__detection and chatbot result__
+
 ![Detection and chatbot](https://github.com/karimaldaly/graduation-project/assets/81292819/861189b6-db85-4d4c-bd13-c608a6b59999)
 
