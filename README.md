@@ -37,7 +37,7 @@ resources based on examination results.
 - Flask API documentation
 
 # Team Members
-[ Alaa Ahmed, Dalia Ahamed, Lara Rabeh, Shady Mohamed, Karim Abdelfattah ]
+[ Alaa Ahmed, Dalia Ahamed, Lara Rabeh, Shady Mohamed, Karim Abdelfattah ( team leader ) ]
 
 
 # Screenshots
