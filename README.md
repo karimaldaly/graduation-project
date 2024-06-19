@@ -22,13 +22,13 @@ diagnostic findings.
 resources based on examination results.
 
 # How to make the project work?
-1- Setup: Clone the repository from GitHub and navigate to the project directory.
-2- Install Dependencies: Install the necessary dependencies using the package manager (e.g., pip for Python, npm for JavaScript).
-3- Configure Firebase: Set up Firebase for authentication, database, and storage by adding the configuration details in the project.
-4- Run the Backend: Start the Flask API server to handle requests and process data.
-5- Launch the Dashboard: Use Flutter to build and run the dashboard on your desired platform (web, Android, iOS).
-6- Integrate Imaging Devices: Ensure that the imaging devices (mammogram, ultrasound, MRI) are correctly configured to send data to the system.
-7- Deploy: Optionally, deploy the application to a cloud service for broader access and scalability.
+1. Setup: Clone the repository from GitHub and navigate to the project directory.
+2. Install Dependencies: Install the necessary dependencies using the package manager (e.g., pip for Python, npm for JavaScript).
+3. Configure Firebase: Set up Firebase for authentication, database, and storage by adding the configuration details in the project.
+4. Run the Backend: Start the Flask API server to handle requests and process data.
+5. Launch the Dashboard: Use Flutter to build and run the dashboard on your desired platform (web, Android, iOS).
+6. Integrate Imaging Devices: Ensure that the imaging devices (mammogram, ultrasound, MRI) are correctly configured to send data to the system.
+7. Deploy: Optionally, deploy the application to a cloud service for broader access and scalability.
 
 # References
 - World Health Organization (WHO) Cancer Statistics
